@@ -1,0 +1,25 @@
+
+<style>
+  /* Add your CSS here */
+  .base-button {
+    border-radius: 25px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+      -webkit-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+      -moz-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  }
+  .prim-button {
+    background-color:blue
+  }
+  .prim-button:hover {
+    background-color: darkblue;
+  }
+  .prim-button:active {
+    background-color: red;
+  }
+</style>
